@@ -5,6 +5,7 @@
     font-family: Arial;
     border: 1px solid black;
     position: relative;
+    user-select: none;
 }
 
 .content {
