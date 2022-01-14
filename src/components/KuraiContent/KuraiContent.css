@@ -1,0 +1,52 @@
+.kurai_content h2 {
+    position: absolute;
+}
+
+.kurai_content h2:hover {
+    text-shadow: 0px 0px 30px #003d0c;
+    color: white;
+}
+
+.kurai_content {
+    position: relative;
+}
+
+.bashkir_item {
+    left: 200px;
+    top: 255px;
+}
+
+.burzyan_item {
+    left: 45px;
+    top: 255px;
+}
+
+.tamyan_item {
+    left: 65px;
+    top: 160px;
+}
+
+.tangaur_item {
+    left: 143px;
+    top: 80px;
+}
+
+.usergan_item {
+    left: 245px;
+    top: 50px;
+}
+
+.kara_item {
+    left: 325px;
+    top: 80px;
+}
+
+.sankem_item {
+    left: 430px;
+    top: 150px;
+}
+
+.kypsak_item {
+    left: 450px;
+    top: 255px;
+}

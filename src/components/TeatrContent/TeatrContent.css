@@ -1,0 +1,26 @@
+.teatr1_img {
+    width: 500px;
+    margin: 0 0 0 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.home_page_link {
+    position: absolute;
+    top: 530px;
+    left: 550px;
+    width: 470px;
+    height: 40px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color: #0b0e5b;
+    box-shadow: 0 0 30px #8a8ffd;
+    border-radius: 10px;
+}
+
+.home_page_link:hover {
+    color: #0b0e5b;
+    background-color: white;
+}

@@ -1,0 +1,29 @@
+.sidebar {
+    height: 735px;
+    width: 300px;
+    border: 1px solid black;
+    position: relative;
+    border-radius: 0 0 0 10px;
+    top: -6px;
+    font-size: 30px;
+    margin: 4px 0 0 0;
+}
+
+.kurai_img {
+    margin-left: 100px;
+    width: 100px;
+    animation-name: img_rotation;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes img_rotation {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}

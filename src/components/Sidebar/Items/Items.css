@@ -1,0 +1,26 @@
+.item {
+    color: white;
+    height: 45px;
+    padding: 10px 0 0 0;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 10px 0 10px 0;
+    box-shadow: 0 0 20px black;
+    background-color: #013D0B;
+}
+
+.item:hover {
+    background-color: #178C25;
+    box-shadow: 0 0 20px #00ff58;
+}
+
+.item:active {
+    background-color: #178C25;
+    box-shadow: none;
+}
+
+a, a:visited, a:hover {
+    text-decoration: none;
+}
+
+

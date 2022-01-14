@@ -1,0 +1,23 @@
+.kurai_article_content {
+    width: 400px;
+    height: 325px;
+    border-radius: 10px;
+    position: absolute;
+    left: 615px;
+    top: 105px;
+    border: 1px solid black;
+}
+
+.bash_img {
+    width: 400px;
+    height: 150px;
+    border-radius: 10px 10px 0 0;
+}
+
+.bash_article {
+    font-style: italic;
+    width: 380px;
+    font-weight: bold;
+    margin: 0 0 0 10px;
+    text-indent: 40px;
+}

@@ -1,0 +1,8 @@
+.med_img {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 600px;
+    position: absolute;
+    top: 0px;
+    left: 410px;
+}

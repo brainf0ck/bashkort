@@ -1,0 +1,16 @@
+.muz_article_content {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 0 0 0 10px;
+    width: 1042px;
+    height: 235px;
+}
+
+.muz_article {
+    display: inline;
+    font-style: italic;
+    width: 380px;
+    font-weight: bold;
+    margin: 0 0 0 10px;
+    text-indent: 40px;
+}

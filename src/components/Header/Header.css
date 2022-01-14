@@ -1,0 +1,25 @@
+.header {
+    color: white;
+    background-color: #ff4f3d;
+    border-radius: 10px 10px 0 0;
+    height: 65px;
+    width: 100%;
+    position: relative;
+    border: 1px solid black;
+}
+
+h1 {
+    display: inline-block;
+    position: absolute;
+    top: -13px;
+    left: 225px;
+    letter-spacing: 10px;
+    text-shadow: 10px 10px 15px black;
+    white-space: nowrap;
+}
+
+h1::first-letter {
+    color: #003d0c;
+    font-size: 40px;
+}
+

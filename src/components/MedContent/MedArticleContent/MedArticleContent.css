@@ -1,0 +1,14 @@
+.med_article_content {
+    width: 400px;
+    height: 600px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.med_article {
+    font-style: italic;
+    width: 380px;
+    font-weight: bold;
+    margin: 0 0 0 10px;
+    text-indent: 40px;
+}
