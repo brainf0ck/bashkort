@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/bashkortostan/static/css/main.ef1df98c.css",
-    "main.js": "/bashkortostan/static/js/main.3ff9384a.js",
-    "index.html": "/bashkortostan/index.html",
-    "main.ef1df98c.css.map": "/bashkortostan/static/css/main.ef1df98c.css.map",
-    "main.3ff9384a.js.map": "/bashkortostan/static/js/main.3ff9384a.js.map"
+    "main.css": "/bashkortostan-project/static/css/main.ef1df98c.css",
+    "main.js": "/bashkortostan-project/static/js/main.3ff9384a.js",
+    "index.html": "/bashkortostan-project/index.html",
+    "main.ef1df98c.css.map": "/bashkortostan-project/static/css/main.ef1df98c.css.map",
+    "main.3ff9384a.js.map": "/bashkortostan-project/static/js/main.3ff9384a.js.map"
   },
   "entrypoints": [
     "static/css/main.ef1df98c.css",
