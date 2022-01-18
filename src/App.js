@@ -18,7 +18,7 @@ function App() {
         <Sidebar />
         <div className='content'> 
           <Routes>
-            <Route path="/" element={<KuraiContent/>} />x
+            <Route path="/" element={<KuraiContent/>} />
             <Route path="/kurai_content" element={<KuraiContent/>} />
             <Route path="/skot_content" element={<SkotContent />} />
             <Route path="/muz_content" element={<MuzContent />} />

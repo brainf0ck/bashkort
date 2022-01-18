@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bashkiria/static/css/main.ef1df98c.css",
-    "main.js": "/bashkiria/static/js/main.d6ecac4b.js",
-    "index.html": "/bashkiria/index.html",
-    "main.ef1df98c.css.map": "/bashkiria/static/css/main.ef1df98c.css.map",
-    "main.d6ecac4b.js.map": "/bashkiria/static/js/main.d6ecac4b.js.map"
+    "main.css": "/bashkortostan/static/css/main.ef1df98c.css",
+    "main.js": "/bashkortostan/static/js/main.3ff9384a.js",
+    "index.html": "/bashkortostan/index.html",
+    "main.ef1df98c.css.map": "/bashkortostan/static/css/main.ef1df98c.css.map",
+    "main.3ff9384a.js.map": "/bashkortostan/static/js/main.3ff9384a.js.map"
   },
   "entrypoints": [
     "static/css/main.ef1df98c.css",
-    "static/js/main.d6ecac4b.js"
+    "static/js/main.3ff9384a.js"
   ]
 }
