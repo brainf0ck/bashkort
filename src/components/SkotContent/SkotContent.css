@@ -1,6 +1,33 @@
-.skot_content_img {
-    width: 350px;
+.skot1_img, .skot2_img {
+    height: 280px;
     border: 1px solid black;
     border-radius: 10px;
-    margin: 0 0 0 10px;
+    position: absolute;
+    left: 550px;
+}
+
+.skot1_img {
+    width: 443px;
+}
+
+.skot2_img {
+    top: 342px;
+    width: 443px;
+}
+
+.skot_header {
+    background-color: #003d0c;
+    color: white;
+    text-align: center;
+    height: 37px;
+    width: 995px;
+    font-size: 30px;
+    border-bottom: 5px solid #ff4f3d;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.skot_content_div {
+    margin: 10px 0 0 0;
+    width: 1020px;
 }

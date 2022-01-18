@@ -1,14 +1,13 @@
 .skot_article_content {
-    width: 1075px;
-    height: 60px;
+    display: inline-block;
+    width: 500px;
+    height: 570px;
     border: 1px solid black;
     border-radius: 10px;
-    margin: 0 0 0 10px;
 }
 
 .skot_article {
     display: inline;
-    font-style: italic;
     width: 380px;
     font-weight: bold;
     margin: 10px 0 0 10px;

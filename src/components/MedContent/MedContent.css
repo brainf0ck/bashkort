@@ -1,8 +1,34 @@
-.med_img {
+.med1_img {
     border: 1px solid black;
     border-radius: 10px;
-    width: 600px;
+    width: 420px;
     position: absolute;
     top: 0px;
     left: 410px;
+}
+
+.med2_img {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 420px;
+    position: absolute;
+    left: 410px;
+    top: 334px;
+}
+
+.med_content_div {
+    margin: 10px 0 0 0;
+    position: relative;
+}
+
+.med_header {
+    background-color: #003d0c;
+    color: white;
+    text-align: center;
+    height: 37px;
+    width: 833px;
+    font-size: 30px;
+    border-bottom: 5px solid #ff4f3d;
+    border-radius: 10px;
+    font-weight: bold;
 }

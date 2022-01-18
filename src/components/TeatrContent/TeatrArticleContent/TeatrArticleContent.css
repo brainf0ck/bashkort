@@ -1,13 +1,12 @@
 .teatr_article_content {
     width: 500px;
-    height: 702px;
+    height: 430px;
     border-radius: 10px;
     border: 1px solid black;
     display: inline-block;
 }
 
 .teatr_article {
-    font-style: italic;
     width: 480px;
     font-weight: bold;
     margin: 0 0 0 10px;

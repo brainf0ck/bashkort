@@ -4,3 +4,20 @@
     height: 250px;
     margin: 0 0 0 10px;
 }
+
+.muz_header {
+    background-color: #003d0c;
+    color: white;
+    text-align: center;
+    height: 37px;
+    width: 1045px;
+    margin-left: 10px;
+    font-size: 30px;
+    border-bottom: 5px solid #ff4f3d;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.muz_content_div {
+    margin: 10px 0 0 0;
+}

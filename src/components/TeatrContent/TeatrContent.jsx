@@ -1,18 +1,24 @@
 import react from "react";
 import TeatrArticleContent from "./TeatrArticleContent/TeatrArticleContent";
 import "./TeatrContent.css"
-import { Link } from "react-router-dom";
 
 const TeatrContent = () => {
     return (
         <div className="teatr_content">
-            <TeatrArticleContent />
-            <img 
-                src="https://cf2.ppt-online.org/files2/slide/f/FXBeywlq5kAuWHKOjfPnghc6L2JzmMtNZrTE9x7bYQ/slide-5.jpg" 
-                alt="Ooops..."
-                className="teatr1_img" 
-            />
-            <Link to="/" className="home_page_link">Вернуться на главную страницу.</Link>
+            <div className="teatr_header">Театры</div>
+            <div className="teatr_content_div">
+                <TeatrArticleContent />
+                <img
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzeMjrbevHwgXTKX-ukozU3QKZVfuhGzw3w&usqp=CAU"
+                    alt="Ooops..."
+                    className="teatr1_img"
+                />
+                <img
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuZ9thaq8ARPsNNUldWYAgIS4DP1LnTNiC7Q&usqp=CAU"
+                    alt="Ooops..."
+                    className="teatr2_img"
+                />
+            </div>
         </div>
     )
 }

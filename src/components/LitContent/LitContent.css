@@ -2,7 +2,7 @@
     position: absolute;
     border: 1px solid black;
     border-radius: 10px;
-    width: 240px;
+    width: 350px;
     margin: 0 0 0 10px;
 }
 
@@ -13,4 +13,21 @@
     border: 1px solid black;
     border-radius: 10px;
     top: 365px;
+}
+
+.lit_content_div {
+    margin: 10px 0 0 0;
+    position: relative;
+}
+
+.lit_header {
+    background-color: #003d0c;
+    color: white;
+    text-align: center;
+    height: 37px;
+    width: 865px;
+    font-size: 30px;
+    border-bottom: 5px solid #ff4f3d;
+    border-radius: 10px;
+    font-weight: bold;
 }
