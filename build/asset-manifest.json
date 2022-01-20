@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bashkiria/kurai_content/static/css/main.ef1df98c.css",
+    "main.js": "/bashkiria/kurai_content/static/js/main.a81148ad.js",
+    "index.html": "/bashkiria/kurai_content/index.html",
+    "main.ef1df98c.css.map": "/bashkiria/kurai_content/static/css/main.ef1df98c.css.map",
+    "main.a81148ad.js.map": "/bashkiria/kurai_content/static/js/main.a81148ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef1df98c.css",
+    "static/js/main.a81148ad.js"
+  ]
+}
