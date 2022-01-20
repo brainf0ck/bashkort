@@ -18,14 +18,14 @@ function App() {
         <Sidebar />
         <div className='content'> 
           <Routes>
-            <Route path="/bashkortostan/" element={<KuraiContent/>} />
-            <Route path="/bashkortostan/kurai_content" element={<KuraiContent/>} />
-            <Route path="/bashkortostan/skot_content" element={<SkotContent />} />
-            <Route path="/bashkortostan/muz_content" element={<MuzContent />} />
-            <Route path="/bashkortostan/med_content" element={<MedContent />} />
-            <Route path="/bashkortostan/lit_content" element={<LitContent />}/>
-            <Route path="/bashkortostan/prazd_content" element={<PrazdContent />} />
-            <Route path="/bashkortostan/teatr_content" element={<TeatrContent />} />
+            <Route path="/" element={<KuraiContent/>} />
+            <Route path="/kurai_content" element={<KuraiContent/>} />
+            <Route path="/skot_content" element={<SkotContent />} />
+            <Route path="/muz_content" element={<MuzContent />} />
+            <Route path="/med_content" element={<MedContent />} />
+            <Route path="/lit_content" element={<LitContent />}/>
+            <Route path="/prazd_content" element={<PrazdContent />} />
+            <Route path="/teatr_content" element={<TeatrContent />} />
           </Routes>
         </div>
       </div>
