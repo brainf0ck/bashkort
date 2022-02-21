@@ -62,3 +62,7 @@
     margin: 10px 0 0 0;
     position: relative;
 }
+
+.label {
+    width: 1000;
+}
