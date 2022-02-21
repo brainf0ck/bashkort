@@ -21,6 +21,7 @@ const KuraiContent = () => {
                 <h2 className="kypsak_item">КЫПСАК</h2>
                 <KuraiArticleContent />
             </div>
+            <h2 className="label">Участник конкурса "КРИТ-2022" Галимов Динияр приветствует жюри конкурса!</h2>
         </div>
     );
 };
